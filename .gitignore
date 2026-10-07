@@ -1,0 +1,8 @@
+.env
+api-key.txt
+.venv/
+rag-bijay/
+__pycache__/
+*.py[cod]
+faiss_store/
+data/vector_store/
